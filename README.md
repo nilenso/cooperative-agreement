@@ -4,7 +4,7 @@ This repository contains a legal document (an "LLP Agreement") template which an
 
 ## 1. View the template
 
-The template is kept in Word format at `Cooperative LLP agreement template.doc` and PDF format at `Cooperative LLP agreement template.pdf`. We would love to redo the agreement in a plaintext format, but we are still tweaking it and our lawyers love Word. Give us some time. :)
+The template is kept in Word format at [template.doc](https://github.com/nilenso/cooperative-agreement/blob/master/template.doc) and PDF format at [template.pdf](https://github.com/nilenso/cooperative-agreement/blob/master/template.pdf). We would love to redo the agreement in a plaintext format, but we are still tweaking it and our lawyers love Word. Give us some time. :)
 
 ## 2. Explanations
 
