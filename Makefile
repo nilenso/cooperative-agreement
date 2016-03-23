@@ -2,19 +2,23 @@
 
 build: build-docx build-html
 
-build-docx:
-# pandoc template.md -f markdown_mmd -t docx --reference-docx ref.docx -s -o template.docx
+build-docx: # TODO: this horror show will be replaced by a script once markdown2docx is ready to package
+	cd ../markdown2docx && lein run ../cooperative-agreement/template.md ../cooperative-agreement/template.docx && cd ../cooperative-agreement
 
 build-html:
-	pandoc template.md -f markdown -t html -c buttondown.css -s -o template.html
+	pandoc template.md -f markdown -t html -c style.css -s -o template.html
 
-build_pdf:
+build-pdf:
 # TODO
+
+install-markdown2docx:
+	git clone https://github.com/nilenso/markdown2docx.git ../markdown2docx
 
 help: ?
 
 ?:
 	@echo
 	@echo "build (default) ..... Build all template formats"
-	@echo "build-docx .......... Build a Microsoft Word template"
+	@echo "build-docx .......... Build a Microsoft Word template (with CSS)"
+	@echo "build-html .......... Build an HTML template (with CSS)"
 	@echo

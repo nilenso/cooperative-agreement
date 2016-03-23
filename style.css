@@ -1,6 +1,11 @@
 /* taken from `buttondown.css`.. revisit for more features? */
 
-.title
-{
+.title {
+    font-weight: bold;
+    text-align: center;
+}
+
+.subtitle {
+    font-style: italic;
     text-align: center;
 }
