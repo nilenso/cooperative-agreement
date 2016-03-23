@@ -1,24 +1,24 @@
 
-LLP AGREEMENT {.title}
-(As per Section 23(4) of LLP Act, 2008) {.subtitle}
+# LLP AGREEMENT # {.title}
+## (As per Section 23(4) of LLP Act, 2008) ## {.subtitle}
 
-\pagebreak
+\newpage
 
-THIS Agreement of Limited Liability Partnership made at Bangalore this $$DATE$$
+THIS Agreement of Limited Liability Partnership made at Bangalore this __DATE__
 
 **BETWEEN**
 
-1. $$NAME$$, residing at $$ADDRESS$$, which expression shall, unless it be repugnant to the subject or context thereof, include his legal heirs, successors, nominees and permitted assignees and hereinafter called the FIRST PARTY,
+1. __NAME__, residing at __ADDRESS__, which expression shall, unless it be repugnant to the subject or context thereof, include his legal heirs, successors, nominees and permitted assignees and hereinafter called the FIRST PARTY,
 
-2. $$NAME$$, residing at $$ADDRESS$$, which expression shall, unless it be repugnant to the subject or context thereof, include his legal heirs, successors, nominees and permitted assignees and hereinafter called the SECOND PARTY,
+2. __NAME__, residing at __ADDRESS__, which expression shall, unless it be repugnant to the subject or context thereof, include his legal heirs, successors, nominees and permitted assignees and hereinafter called the SECOND PARTY,
 
-3. $$NAME$$, residing at $$ADDRESS$$, which expression shall, unless it be repugnant to the subject or context thereof, include her legal heirs, successors, nominees and permitted assignees and hereinafter called the THIRD PARTY,
+3. __NAME__, residing at __ADDRESS__, which expression shall, unless it be repugnant to the subject or context thereof, include her legal heirs, successors, nominees and permitted assignees and hereinafter called the THIRD PARTY,
 
-4. $$NAME$$, residing at $$ADDRESS$$, which expression shall, unless it be repugnant to the subject or context thereof, include his legal heirs, successors, nominees and permitted assignees and hereinafter called the FOURTH PARTY,
+4. __NAME__, residing at __ADDRESS__, which expression shall, unless it be repugnant to the subject or context thereof, include his legal heirs, successors, nominees and permitted assignees and hereinafter called the FOURTH PARTY,
 
-5. $$NAME$$, residing at $$ADDRESS$$, which expression shall, unless it be repugnant to the subject or context thereof, include his legal heirs, successors, nominees and permitted assignees and hereinafter called the FIFTH PARTY,
+5. __NAME__, residing at __ADDRESS__, which expression shall, unless it be repugnant to the subject or context thereof, include his legal heirs, successors, nominees and permitted assignees and hereinafter called the FIFTH PARTY,
 
-6. $$NAME$$, residing at $$ADDRESS$$, which expression shall, unless it be repugnant to the subject or context thereof, include his legal heirs, successors, nominees and permitted assignees and hereinafter called the SIXTH PARTY,
+6. __NAME__, residing at __ADDRESS__, which expression shall, unless it be repugnant to the subject or context thereof, include his legal heirs, successors, nominees and permitted assignees and hereinafter called the SIXTH PARTY,
 
 (THE FIRST, SECOND, THIRD, AND FOURTH PARTIES SHALL BE COLLECTIVELY REFERRED TO AS **ORIGINAL PARTNERS**)
 
@@ -26,7 +26,7 @@ THIS Agreement of Limited Liability Partnership made at Bangalore this $$DATE$$
 
 (THE SIXTH PARTY SHALL BE REFERRED TO AS AN **INCOMING PARTNER**)
 
-WHEREAS $$NAME$$, $$NAME$$, $$NAME$$ (collectively, the “**Retired Partners**”), the Original Partners and Retired Partners had formed a Limited Liability Partnership by the name of $$COMPANY_NAME$$ LLP (“**LLP**”) under the Limited Liability Partnership Act 2008 (“**Act**”) by way of an agreement dated $$ORIGINAL_DATE$$ (“**Original Agreement**”).
+WHEREAS __NAME__, __NAME__, __NAME__ (collectively, the “**Retired Partners**”), the Original Partners and Retired Partners had formed a Limited Liability Partnership by the name of __COMPANY_NAME__ LLP (“**LLP**”) under the Limited Liability Partnership Act 2008 (“**Act**”) by way of an agreement dated __ORIGINAL_DATE__ (“**Original Agreement**”).
 
 Whereas the Retired Partners have retired from the LLP.
 
@@ -38,13 +38,13 @@ NOW THEREFORE, the Parties, hereby through this Agreement of Limited Liability P
 
 IT IS HEREBY AGREED BY AND AMONG THE PARTIES HERETO AS FOLLOWS:
 
-1. The LLP as constituted under this Deed shall be deemed to have commenced on the $$ORIGINAL_DATE$$.
+1. The LLP as constituted under this Deed shall be deemed to have commenced on the __ORIGINAL_DATE__.
 
-2. The Limited Liability Partnership shall be carried on in the name and style of $$COMPANY_NAME$$ LLP and such other name as the Partners may from time to time unanimously agree upon.
+2. The Limited Liability Partnership shall be carried on in the name and style of __COMPANY_NAME__ LLP and such other name as the Partners may from time to time unanimously agree upon.
 
 3. The duration of the LLP shall be for an indefinite period.
 
-4. The LLP shall have its registered office at $$COMPANY_ADDRESS$$ or at such other place or places, as shall be agreed to by the majority of the Members (as defined hereinafter) from time to time.
+4. The LLP shall have its registered office at __COMPANY_ADDRESS__ or at such other place or places, as shall be agreed to by the majority of the Members (as defined hereinafter) from time to time.
 
 5. The capital of the LLP shall be Rs 6,144. The Partners hereto shall contribute in equal proportions to their respective capital contribution ratio.
 
@@ -114,7 +114,7 @@ IT IS HEREBY AGREED BY AND AMONG THE PARTIES HERETO AS FOLLOWS:
 
 10. **Executives**
 
-    (a) The LLP may, from time to time, appoint certain persons as Executives of the LLP. The Executives together with the Partners of the LLP shall be collectively referred to as "Members". $$NAME$$ shall be appointed as an Executive of the LLP. The appointment of all other Executives (who, together with the Partners, are hereinafter referred to as **Members**) shall be made with the consent of two-thirds of the Members.
+    (a) The LLP may, from time to time, appoint certain persons as Executives of the LLP. The Executives together with the Partners of the LLP shall be collectively referred to as "Members". __NAME__ shall be appointed as an Executive of the LLP. The appointment of all other Executives (who, together with the Partners, are hereinafter referred to as **Members**) shall be made with the consent of two-thirds of the Members.
 
     (b) The Executives shall have such power and authority as may be mutually agreed between them and the LLP and shall be entitled to receive such remuneration as may be determined by the Members from time to time.
 
@@ -248,42 +248,42 @@ IT IS HEREBY AGREED BY AND AMONG THE PARTIES HERETO AS FOLLOWS:
 
     (f) All disputes between the Members or between a Member and the LLP arising out of this LLP Agreement shall be referred to final and binding arbitration at the request of any of the Members upon written notice to that effect to the other Members. The arbitration shall be in accordance with the provisions of the Arbitration and Conciliation Act, 1996 (26 of 1996) (which is deemed to be incorporated into this agreement by reference). All arbitration proceedings shall be conducted in the English language. The venue of the arbitration shall be Bangalore, India, which shall be the seat of the arbitration and the courts of Bangalore, India shall have exclusive jurisdiction over the arbitration proceedings. The arbitration shall be conducted by a sole arbitrator appointed by the Members collectively.
 
-\pagebreak
+\newpage
 
 IN WITNESS WHEREOF the parties have put their respective hands the day and year first hereinabove written
 
 |                                              |                            |
 |----------------------------------------------|----------------------------|
 | **First Party**                              | **Witness to signatories** |
-| Signature _________________________________  | Name: $$NAME$$             |
-| $$NAME$$                                     | Address: $$ADDRESS$$       |
+| Signature _________________________________  | Name: __NAME__             |
+| __NAME__                                     | Address: __ADDRESS__       |
 |                                              | Signature __________       |
 |                                              |                            |
 | **Second Party**                             |                            |
 | Signature _________________________________  |                            |
-| $$NAME$$                                     |                            |
+| __NAME__                                     |                            |
 |                                              |                            |
 |                                              |                            |
 | **Third Party**                              |                            |
 | Signature _________________________________  |                            |
-| $$NAME$$                                     |                            |
+| __NAME__                                     |                            |
 |                                              |                            |
 
-\pagebreak
+\newpage
 
 |                                              |                            |
 |----------------------------------------------|----------------------------|
 | **Fourth Party**                             | **Witness to signatories** |
-| Signature _________________________________  | Name: $$NAME$$             |
-| $$NAME$$                                     | Address: $$ADDRESS$$       |
+| Signature _________________________________  | Name: __NAME__             |
+| __NAME__                                     | Address: __ADDRESS__       |
 |                                              | Signature __________       |
 |                                              |                            |
 | **Fifth Party**                              |                            |
 | Signature _________________________________  |                            |
-| $$NAME$$                                     |                            |
+| __NAME__                                     |                            |
 |                                              |                            |
 |                                              |                            |
 | **Sixth Party**                              |                            |
 | Signature _________________________________  |                            |
-| $$NAME$$                                     |                            |
+| __NAME__                                     |                            |
 |                                              |                            |

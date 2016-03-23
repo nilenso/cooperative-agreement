@@ -36,7 +36,7 @@ While we cannot always offer everyone we work with ownership in the strictest se
 
 ## 3. Modifying the agreement
 
-First, go through the agreement and make sure you have replaced every instance of text in double-dollar delimiters (example: `$$PARTNER_ADDRESS$$`) with the information that actually pertains to your company.
+First, go through the agreement and make sure you have replaced every instance of text in double-underscore delimiters (example: `__PARTNER_ADDRESS__`) with the information that actually pertains to your company.
 
 There are a number of whole text chunks you may need to remove. First and most obvious would be the fact that you may not have precisely 6 partners. Second, you might not have an `Original Agreement` or `Original Partners`... or even `Continuing Partners` yet. Come back to these portions of the LLP Agreement to revisit these clauses in future revisions.
 
@@ -60,3 +60,11 @@ The DOCX build currently has a few bugs (in order of priority):
 3. `\pagebreak` needs to be implemented.
 4. Page numbering should print as "Page 3 of 12" so the document length is self-descriptive.
 5. It would be nice if the table on the signature page could span the entire page. (This might not be possible.)
+6. It would be nice if the double-underscore delimiters (`__NAME__`) highlighted the words they delimit in a different colour, to differentiate them from "normal" bold text.
+
+The HTML build currently has a few bugs (in order of priority):
+
+1. The `pandoc` build isn't respecting the CSS supplied.
+2. Tables should be centered.
+3. It would be nice if the signature page could span the entire page.
+4. It would be nice if the double-underscore delimiters (`__NAME__`) highlighted the words they delimit.

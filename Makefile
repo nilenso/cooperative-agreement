@@ -6,7 +6,7 @@ build-docx: # TODO: this horror show will be replaced by a script once markdown2
 	cd ../markdown2docx && lein run ../cooperative-agreement/template.md ../cooperative-agreement/template.docx && cd ../cooperative-agreement
 
 build-html:
-	pandoc template.md -f markdown -t html -c style.css -s -o template.html
+	pandoc template.md -c style.css -s -f markdown+header_attributes -t html --standalone -o template.html
 
 build-pdf:
 # TODO
