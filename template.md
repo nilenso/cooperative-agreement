@@ -48,68 +48,69 @@ IT IS HEREBY AGREED BY AND AMONG THE PARTIES HERETO AS FOLLOWS:
 
 5. The capital of the LLP shall be Rs 6,144. The Partners hereto shall contribute in equal proportions to their respective capital contribution ratio.
 
-   |              | Contribution | Ratio    |
-   |--------------|--------------|----------|
-   | First Party  | Rs. 1024     | 16.66%   |
-   | Second Party | Rs. 1024     | 16.66%   |
-   | Third Party  | Rs. 1024     | 16.66%   |
-   | Fourth Party | Rs. 1024     | 16.66%   |
-   | Fifth Party  | Rs. 1024     | 16.66%   |
-   | Sixth Party  | Rs. 1024     | 16.67%   |
+    |              | Contribution | Ratio    |
+    |--------------|--------------|----------|
+    | First Party  | Rs. 1024     | 16.66%   |
+    | Second Party | Rs. 1024     | 16.66%   |
+    | Third Party  | Rs. 1024     | 16.66%   |
+    | Fourth Party | Rs. 1024     | 16.66%   |
+    | Fifth Party  | Rs. 1024     | 16.66%   |
+    | Sixth Party  | Rs. 1024     | 16.67%   |
 
 6. The LLP shall have a common seal to be affixed on documents as defined by Members under the signature of any of the Designated Partners.
 
 7. **Business of the LLP**
 
-   (A)    Main business
+    (a) **Main business**
 
-   To design, develop, research, purchase, take on hire, import, export, sell, assemble, host, manufacture, test and distribute all types of hardware, software, electronic devices and electronics with embedded software. To render services such as consultancy, support and training and all other allied activities for services mentioned above for Indian and overseas individuals or firms.
+        To design, develop, research, purchase, take on hire, import, export, sell, assemble, host, manufacture, test and distribute all types of hardware, software, electronic devices and electronics with embedded software. To render services such as consultancy, support and training and all other allied activities for services mentioned above for Indian and overseas individuals or firms.
 
-   (B)    Incidental or ancillary powers
+    (b) **Incidental or ancillary powers**
 
-   Following powers shall be incidental or ancillary to the attainment of the main business of the LLP. LLP can exercise these powers as and when required.
+        Following powers shall be incidental or ancillary to the attainment of the main business of the LLP. LLP can exercise these powers as and when required.
 
-   1. Obtaining    rights,    privileges,    contracts,    licenses,    intellectual    property    rights, authorizations, permissions from Government or any other authority, company or person to carry out the business of LLP.
+        1. Obtaining    rights,    privileges,    contracts,    licenses,    intellectual    property    rights, authorizations, permissions from Government or any other authority, company or person to carry out the business of LLP.
 
-   2. Take over any running firm, concern, LLP or body corporate carrying on similar business at a price mutually agreeable or to amalgamate with any other LLP or Company or body corporate having object similar or compatible to those of the LLP.
+        2. Take over any running firm, concern, LLP or body corporate carrying on similar business at a price mutually agreeable or to amalgamate with any other LLP or Company or body corporate having object similar or compatible to those of the LLP.
 
-   3. Become partner of another LLP or member of any Company.
+        3. Become partner of another LLP or member of any Company.
 
-   4. Enter into compromise or agreement with any person.
+        4. Enter into compromise or agreement with any person.
 
-   5. Appoint, deal with or act as agents, sub-agents, dealers, sub-dealers, distributors for selling or purchasing or dealing with the products or services related to the business of LLP.
+        5. Appoint, deal with or act as agents, sub-agents, dealers, sub-dealers, distributors for selling or purchasing or dealing with the products or services related to the business of LLP.
 
-   6. Acquire or dispose of movable and immovable property, enter into agreement for purchase, sale or disposal of movable or immovable property.
+        6. Acquire or dispose of movable and immovable property, enter into agreement for purchase, sale or disposal of movable or immovable property.
 
-   7. Open, operate and close bank accounts, give and obtain guarantees, borrow funds from banks, financial institutions or any other person on security or without security and invest surplus funds of LLP in appropriate avenues.
+        7. Open, operate and close bank accounts, give and obtain guarantees, borrow funds from banks, financial institutions or any other person on security or without security and invest surplus funds of LLP in appropriate avenues.
 
-   8. Appoint, promote, remove or suspend employees and workmen, to take disciplinary actions and impose punishments on workmen and employees, to represent before Labour Courts, Industrial Tribunals, High Court and Supreme Court in labour matters.
+        8. Appoint, promote, remove or suspend employees and workmen, to take disciplinary actions and impose punishments on workmen and employees, to represent before Labour Courts, Industrial Tribunals, High Court and Supreme Court in labour matters.
 
-   9. Institute or defend any suit or show cause notice before any adjudicating authority, appellate authority, Tribunal or Court, to appoint consultants, advocates and authorized representatives for representing LLP.
+        9. Institute or defend any suit or show cause notice before any adjudicating authority, appellate authority, Tribunal or Court, to appoint consultants, advocates and authorized representatives for representing LLP.
 
-   10. Grant general or special power of attorney to any person for the purpose of the business of LLP.
+        10. Grant general or special power of attorney to any person for the purpose of the business of LLP.
 
-   11. Do all such acts and things as may be necessary to carry out business of the LLP.
+        11. Do all such acts and things as may be necessary to carry out business of the LLP.
 
-   (Incidental or ancillary powers change according to actual condition.)
+        (Incidental or ancillary powers change according to actual condition.)
 
 8. **Remuneration of Partners**
 
-   The Partners shall receive remuneration by way of monthly salaries as below:
+     The Partners shall receive remuneration by way of monthly salaries as below:
 
-   |----------------|-----------|
-   | First Party    | Rs 136448 |
-   | Second Party   | Rs 130531 |
-   | Third Party    | Rs 122995 |
-   | Fourth Party   | Rs 116978 |
-   | Fifth Party    | Rs 129883 |
-   | Sixth Party    | Rs 112500 |
+     |                |           |
+     |----------------|-----------|
+     | First Party    | Rs 136448 |
+     | Second Party   | Rs 130531 |
+     | Third Party    | Rs 122995 |
+     | Fourth Party   | Rs 116978 |
+     | Fifth Party    | Rs 129883 |
+     | Sixth Party    | Rs 112500 |
 
-   The salaries shall be paid to the Partners irrespective of whether the LLP has any book profits as defined under the Income Tax Act, 1961. Any profit which remains with the LLP after payment of salaries shall be accumulated and retained as capital reserve in the accounts of the LLP.
+     The salaries shall be paid to the Partners irrespective of whether the LLP has any book profits as defined under the Income Tax Act, 1961. Any profit which remains with the LLP after payment of salaries shall be accumulated and retained as capital reserve in the accounts of the LLP.
 
 9. **Profit Sharing**
 
-   No Partner shall be entitled to any share in the profits of the LLP. Partners shall only be entitled to receive remuneration as detailed in Clause 8 above.
+     No Partner shall be entitled to any share in the profits of the LLP. Partners shall only be entitled to receive remuneration as detailed in Clause 8 above.
 
 10. **Executives**
 
@@ -119,7 +120,7 @@ IT IS HEREBY AGREED BY AND AMONG THE PARTIES HERETO AS FOLLOWS:
 
 11. **Transfer of business of the LLP**
 
-    The business of the LLP may be transferred by the LLP with the consent of two-thirds of the Members. In the event of transfer of business of the LLP, the sale consideration shall be divided into such number of parts as the number of Members (“**Parts**”), with each Member being entitled to receive one Part.
+      The business of the LLP may be transferred by the LLP with the consent of two-thirds of the Members. In the event of transfer of business of the LLP, the sale consideration shall be divided into such number of parts as the number of Members (“**Parts**”), with each Member being entitled to receive one Part.
 
 12. **Bank Accounts**
 
@@ -185,7 +186,7 @@ IT IS HEREBY AGREED BY AND AMONG THE PARTIES HERETO AS FOLLOWS:
 
 19. **Restriction on Authority of Members**
 
-    No Member shall without the written consent of the LLP:
+      No Member shall without the written consent of the LLP:
 
     (a) Employ any money, goods or effects of the LLP or pledge the credit thereof except in the ordinary course of business and upon the account or for the benefit of LLP.
 
@@ -207,11 +208,11 @@ IT IS HEREBY AGREED BY AND AMONG THE PARTIES HERETO AS FOLLOWS:
 
 21. **Audit of accounts**
 
-The accounts of the LLP shall be audited irrespective of the turnover or capital by an auditor appointed with the consent of the Members.
+      The accounts of the LLP shall be audited irrespective of the turnover or capital by an auditor appointed with the consent of the Members.
 
 22. **Extent of Liability of the LLP**
 
-    The LLP is not bound by anything done by a Member in dealing with a person if--
+      The LLP is not bound by anything done by a Member in dealing with a person if--
 
     (a) the Member in fact has no authority to act for the LLP in doing a particular act; and
 
@@ -225,13 +226,13 @@ The accounts of the LLP shall be audited irrespective of the turnover or capital
 
 24. **Indemnity**
 
-    The LLP shall indemnify and defend out of its funds each Member in respect of payments made and personal liabilities incurred by him/her —
+      The LLP shall indemnify and defend out of its funds each Member in respect of payments made and personal liabilities incurred by him/her —
 
     (a) in the ordinary and proper conduct of the business of the LLP; or
 
     (b) in or about anything necessarily done for the preservation of the business or property of the LLP.
 
-    The LLP shall not indemnify any Member in respect of any liability incurred by him on account of gross negligence or willful misconduct of such Member.
+      The LLP shall not indemnify any Member in respect of any liability incurred by him on account of gross negligence or willful misconduct of such Member.
 
 25. **Management and Administration of LLP**
 
