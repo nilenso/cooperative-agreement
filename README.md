@@ -52,19 +52,3 @@ make
 ```
 
 The default `make` target will generate HTML and DOCX formats. Support for PDF is still pending. You can run these targets individually with `make build-html` and `make build-docx`.
-
-The DOCX build currently has a few bugs (in order of priority):
-
-1. Bold section headers do not render correctly. See the rendering of `7. **Business of the LLP**`
-2. The `{.title}` and `{.subtitle}` from `style.css` should be centered.
-3. `\pagebreak` needs to be implemented.
-4. Page numbering should print as "Page 3 of 12" so the document length is self-descriptive.
-5. It would be nice if the table on the signature page could span the entire page. (This might not be possible.)
-6. It would be nice if the double-underscore delimiters (`__NAME__`) highlighted the words they delimit in a different colour, to differentiate them from "normal" bold text.
-
-The HTML build currently has a few bugs (in order of priority):
-
-1. The `pandoc` build isn't respecting the CSS supplied.
-2. Tables should be centered.
-3. It would be nice if the signature page could span the entire page.
-4. It would be nice if the double-underscore delimiters (`__NAME__`) highlighted the words they delimit.
