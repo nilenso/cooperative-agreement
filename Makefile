@@ -3,10 +3,10 @@
 build: build-docx build-html
 
 build-docx: # TODO: this horror show will be replaced by a script once markdown2docx is ready to package
-	cd ../markdown2docx && lein run ../cooperative-agreement/template.md ../cooperative-agreement/template.docx ../cooperative-agreement/style.css && cd ../cooperative-agreement
+	cd ../markdown2docx && lein run ../cooperative-agreement/src/template.md ../cooperative-agreement/build/template.docx ../cooperative-agreement/src/style.css && cd ../cooperative-agreement
 
 build-html:
-	pandoc template.md -c style.css -s -f markdown+header_attributes -t html --standalone -o template.html
+	pandoc src/template.md -c src/style.css -s -f markdown+header_attributes -t html --standalone -o build/template.html
 
 build-pdf:
 # TODO
