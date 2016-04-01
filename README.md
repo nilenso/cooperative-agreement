@@ -9,7 +9,7 @@ This repository contains a legal document (an "LLP Agreement") template which an
 * HTML format: [build/template.html](https://github.com/nilenso/cooperative-agreement/blob/master/build/template.html).
 * PDF format: \[ TODO \]
 
-The Word and HTML files are built directly from the Markdown source. The HTML output is not perfectly formatted but should suffice for an initial review of the document. The DOCX output is formatted as the document printed and submitted to the Registrar of Companies within the Ministry of Corporate Affairs. The MS Word output is easiest for lawyers to work with.
+The Word and HTML files are built directly from the Markdown source via [Pandoc](http://pandoc.org/) and [markdown2docx](https://github.com/nilenso/markdown2docx). The HTML output is not perfectly formatted but should suffice for an initial review of the document. The DOCX output is formatted as the document printed and submitted to the Registrar of Companies within the Ministry of Corporate Affairs. The MS Word output is easiest for lawyers to work with.
 
 ## 2. Explanations
 
