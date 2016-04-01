@@ -4,7 +4,12 @@ This repository contains a legal document (an "LLP Agreement") template which an
 
 ## 1. View the template
 
-The template is kept in Word format at [template.doc](https://github.com/nilenso/cooperative-agreement/blob/master/template.doc) and PDF format at [template.pdf](https://github.com/nilenso/cooperative-agreement/blob/master/template.pdf). We would love to redo the agreement in a plaintext format, but we are still tweaking it and our lawyers love Word. Give us some time. :)
+* Markdown (plaintext): [src/template.md](https://github.com/nilenso/cooperative-agreement/blob/master/src/template.md)
+* Microsoft Word format: [build/template.docx](https://github.com/nilenso/cooperative-agreement/blob/master/build/template.docx)
+* HTML format: [build/template.html](https://github.com/nilenso/cooperative-agreement/blob/master/build/template.html).
+* PDF format: \[ TODO \]
+
+The Word and HTML files are built directly from the Markdown source. The HTML output is not perfectly formatted but should suffice for an initial review of the document. The DOCX output is formatted as the document printed and submitted to the Registrar of Companies within the Ministry of Corporate Affairs. The MS Word output is easiest for lawyers to work with.
 
 ## 2. Explanations
 
